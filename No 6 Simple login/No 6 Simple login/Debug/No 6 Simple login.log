@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\이현호\source\repos\No 6 Simple login\No 6 Simple login\소스.c(26): warning C4715: 'check': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  No 6 Simple login.vcxproj -> C:\Users\이현호\source\repos\No 6 Simple login\Debug\No 6 Simple login.exe
